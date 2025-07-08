@@ -1,9 +1,17 @@
-# DioExcel
 
-Planilhas para visualização da minha evolução, com recursos mais elaborados no Excel.
+# DIO | Curso Excel
 
-1 - FerramenteInvestimento.xlsx: Neste projeto, implementei conhecimentos de investimento para criar uma planilha com capacidade de orientá-lo através do seu perfil de investidor a investir em fundos imobiliários, além de calcular dividendos e rendimento mensal. Foram usadas fórmulas simples e variáveis.
+Repositório para armazenar meus projetos e dashboards do Excel.
 
-2 - InformeImposto.xlsx: Apliacação para ajudar e tornar o imposto de renda mais fácil.
 
-3 - Dashboard_Xbox.xlsx: Dashboard básico.
+
+##  📚 Documentação
+
+- [Documentação Excel](https://support.microsoft.com/pt-br/office/fun%C3%A7%C3%B5es-do-excel-por-categoria-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)
+
+
+## 🖥️ Resumo do Curso 
+
+
+Aprendo como implementar a I.A em meu favor juntamente ao bom e velho Excel.
+Nesses projetos são usadas funções como PROC, SOMASE(S), SE, ETC... 
